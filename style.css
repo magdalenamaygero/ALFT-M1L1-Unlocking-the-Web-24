@@ -2,3 +2,14 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: #db5757;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  backgroud-color: #db5757;
+}
